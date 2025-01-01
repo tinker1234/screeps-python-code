@@ -1,0 +1,10 @@
+harvester = 3
+upgrader = 7
+builder = 3
+repairer = 3
+healer = 10
+cull_overage = False
+cull_all = False
+priortize_order = ['harvester', 'upgrader', 'builder', 'repairer']
+clear_memory = False
+creep_say = False
